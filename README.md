@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-9" alt="ma-9" /> </p>
 
-- 🔭 I’m currently working on [Data Structure](https://github.com/ma-9/data-structure.git)
+- 🔭 I’m currently working on [Cleverpush](https://github.com/cleverpush)
 
 - 🌱 I’m currently learning **React, Node, Data Structure**
 
 - 👯 I’m looking to collaborate on [Open Source Projects](https://github.com/trending)
 
 - 🤝 I’m looking for help with [Complex Coding](https://github.com/ttrouill/complex)
-
-- 👨‍💻 All of my projects are available at [https://manavoza.com/](https://manavoza.com/)
 
 - 📝 I regulary follow articles on [https://medium.com/search?q=coding](https://medium.com/search?q=coding)
 
