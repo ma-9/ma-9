@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-9" alt="ma-9" /> </p>
 
-- 🔭 I’m currently working on [Cleverpush](https://github.com/cleverpush)
-
 - 🌱 I’m currently learning **React, Node, Data Structure**
 
 - 👯 I’m looking to collaborate on [Open Source Projects](https://github.com/trending)
